@@ -11,5 +11,7 @@ I love to work with colors, and as a designer and artist, it is always useful to
 - You can chose between totally random sRGB colors, or by HSL hues! (muted, pastels, warm, cool...)
 - You can create random gradients
 
+![Resultado](color_generator_pastels.png)
+
 ![Resultado](color_generator_gradients.png)
 
